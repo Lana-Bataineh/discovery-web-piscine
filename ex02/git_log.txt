@@ -1,0 +1,5 @@
+commit 394e9c14a3a03f1ec22acb23c679843cc03432d6
+Author: Lana_Bataineh <lanabataineh41@gmail.com>
+Date:   Sun Oct 4 09:59:41 2026 +0300
+
+    First Commit : Add hello.txt file

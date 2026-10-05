@@ -1,0 +1,12 @@
+edit-add-commit-push cycle :
+
+1. Edit : Create new code or modify files in your working dirictory. 
+
+2. ADD :Stage the modified files to prepare them for upploading 
+	using "git add fileName"
+
+3. Commit :Recorde the staged sanpshot permenantly into the local rpository history 
+	   using "git commit -m "your message" "
+
+4. Push : Uploade local repository commits to the remote hosting service 
+          using "git push origin main"
